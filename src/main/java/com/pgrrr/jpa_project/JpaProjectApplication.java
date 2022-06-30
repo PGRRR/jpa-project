@@ -1,13 +1,13 @@
-package pgrrr.spring_boot_jsp;
+package com.pgrrr.jpa_project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootJspApplication {
+public class JpaProjectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootJspApplication.class, args);
+		SpringApplication.run(JpaProjectApplication.class, args);
 	}
 
 }

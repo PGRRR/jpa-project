@@ -1,10 +1,10 @@
-package pgrrr.spring_boot_jsp;
+package com.pgrrr.jpa_project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootJspApplicationTests {
+class JpaProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
